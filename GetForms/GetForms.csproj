@@ -49,7 +49,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Question.cs" />
     <Compile Include="QuestionSet.cs" />
-    <Compile Include="SexQuestion.cs" />
+    <Compile Include="GenderQuestion.cs" />
     <Compile Include="TextQuestion.cs" />
   </ItemGroup>
   <ItemGroup>
