@@ -1,8 +1,8 @@
 ﻿namespace GetForms
 {
-    public class SexQuestion : MultipleChoiceQuestion
+    public class GenderQuestion : MultipleChoiceQuestion
     {
-        public SexQuestion()
+        public GenderQuestion()
         {
             Text = "Kjønn";
             Options = new[] {"Mann", "Kvinne"};
